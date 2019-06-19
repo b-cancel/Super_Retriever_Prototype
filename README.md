@@ -1,7 +1,9 @@
 # Super_Retriever_Prototype
 
 Created for a Game Development Course. 
-
+<br>
+<a href="https://b-cancel.github.io/Super_Retriever_Prototype/">Link to Live Demo</a>
+<br>
 NOTE: Unfortunately the Unity Web GL Player Doesnt always work, and the
 
 <h4>Primary Goal:</h4> <h3>Create a game with a tug-o-war effect</h3>
